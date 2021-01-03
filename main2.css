@@ -1,0 +1,27 @@
+
+.flex-1
+{
+
+    width:1000px;
+    min-height:500px;
+    
+    border:1px solid black;
+    margin: 0px auto; 
+}
+.flex-2
+{
+   
+    width:1000px;
+    height:600px;
+  
+    right:2px;
+    border:1px solid black;
+    margin: 0px auto;
+}
+
+.top-container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 20px;
+  }
